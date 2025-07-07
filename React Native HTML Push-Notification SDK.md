@@ -11,9 +11,9 @@ Supports:
 ## 🚀 Installation
 
 ```bash
-npm install @msg91comm/MSG91PushNotificationSDK
+npm install @msg91comm/react-native-push-notification-sdk
 # or
-yarn add @msg91comm/MSG91PushNotificationSDK
+yarn add @msg91comm/react-native-push-notification-sdk
 ```
 
 ---
@@ -39,11 +39,9 @@ To send FCM notifications, your app must be connected to a Firebase project.
 - Navigate to **Project Settings > Service Accounts**.
 - Click **"Generate new private key"** and download the JSON file.
 
-
-
 | Step 1 | Step 2 | Step 3 | Step 4 |
 |--------|--------|--------|--------|
-| ![Step1](./assets/step1.png) | ![Step2](./assets/step2.png) | ![Step3](./assets/step3.png) | ![Step4](./assets/step4.png) |
+| ![Step1](https://github.com/user-attachments/assets/b6db5b1c-c6c5-4f75-b3e7-fc9e59068212) | ![Step2](https://github.com/user-attachments/assets/3128a5f0-fddb-49cc-9d8b-6001709c5a9a) | ![Step3](https://github.com/user-attachments/assets/307788e2-2015-443b-a4c0-e54e19de3e52) | ![Step4](https://github.com/user-attachments/assets/98a2f3a8-06f2-423e-a7f8-0f63f6225186) |
 
 
 ### 2. Upload Firebase Key to MSG91 Dashboard
