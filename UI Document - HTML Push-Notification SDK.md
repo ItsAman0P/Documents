@@ -9,10 +9,11 @@ The UI team is responsible for implementing the necessary sections in the web da
 * Create FCM templates
 * Update the launch campaign panel
 * Allow project selection at runtime
-#### 🔗 API Collection:
+#### 🔗 API Collection & Links:
 
 * [HTML Template Push-Notification APIs collection](https://www.postman.com/aman12034876/html-template-push-notification-sdk/collection/t72jg36/html-template-push-notification-sdk?action=share&creator=14559709)
 * [API Doc](https://docs.google.com/document/d/1W6i2dg06QkkRNS_DesQYDFk7xBhZCsKJ3udF2ADTaWA/edit?pli=1&tab=t.0#heading=h.v15f9xjhboch)
+* [ClickUp (Mobile Board): Push-Notification SDK](https://app.clickup.com/t/86cxkbx9b)
 
 ---
 
