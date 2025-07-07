@@ -79,6 +79,10 @@ The UI team is responsible for implementing the necessary sections in the web da
 * `POST /send-notification`
 
 ---
+### 4. 🔁 SDK Integration in React Native Application
+#### 🔗 [Push Notification SDK Integration Guide](https://github.com/ItsAman0P/Documents/blob/main/React%20Native%20HTML%20Push-Notification%20SDK.md)
+
+---
 
 ## 📎 References
 
